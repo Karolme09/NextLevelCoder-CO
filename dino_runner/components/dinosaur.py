@@ -6,7 +6,7 @@ from dino_runner.utils.constants import (
     DUCKING,
     JUMPING
 )
-class dinosaur(Sprite):
+class Dinosaur(Sprite):
 
     X_POS = 80
     Y_POS = 310
